@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_6413 net/minecraft/commands/Commands
+	FIELD field_33985 logger Lorg/apache/logging/log4j/Logger;

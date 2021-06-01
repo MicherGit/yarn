@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_6404 net/minecraft/entity/ai/LightingPredicate
+	FIELD field_33920 everything Lnet/minecraft/class_6404;
+	FIELD field_33921 BLOCKS_SET_ON_FIRE Ljava/lang/String;
+	FIELD field_33922 ENTITY_STRUCK Ljava/lang/String;
+	FIELD field_33923 range Lnet/minecraft/class_2096$class_2100;
+	FIELD field_33924 theEntityThatHasBeenSmiten Lnet/minecraft/class_2048;
+	METHOD <init> (Lnet/minecraft/class_2096$class_2100;Lnet/minecraft/class_2048;)V
+		ARG 1 inputedIntegerRange
+		ARG 2 inputtedEntityPredicate
