@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_6400 net/minecraft/client/metrics/ProvideMetrics
+	METHOD method_37189 metrics (Ljava/util/function/Supplier;)Ljava/util/Set;

@@ -1,7 +1,10 @@
-CLASS net/minecraft/class_6148
+CLASS net/minecraft/class_6148 net/minecraft/world/RedstoneSignalStrength
 	COMMENT A class holding unknown constants.
 	COMMENT
 	COMMENT @apiNote From the package structure, this class appears to be world-related,
 	COMMENT but it seems to be the exclusive class in a package. Its neighboring packages
 	COMMENT are about portal teleporting and persistent state, yet these constants don't
 	COMMENT seem to relate to those.
+	FIELD field_31827 minSignal I
+	FIELD field_31828 maxSignal I
+	FIELD field_31829 defaultSignal I
